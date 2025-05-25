@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate full stack (MERN) developer</h3>
 
-- 🌱 I’m currently learning **Rust ,DevOps , Web3**
+- 🌱 I’m currently learning **,NextJs , AWS , Rust ,DevOps , Web3**
 
 - 👨‍💻 All of my projects are available at [https://ankitsingh-dev.vercel.app/](https://ankitsingh-dev.vercel.app/)
 
